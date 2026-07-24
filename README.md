@@ -10,17 +10,15 @@ Richard N. Goodman, Ellinor Shore, Michael S. M. Brouwer, Peter Nambala, Nichola
 
 *bioRxiv* ; doi: []()
 
-The code used in the analysis is linked below for the **genomic visualisation of plasmids with circulize and gggenes** (Figures 1 and 4), **transposition frequency analysis** (Figure 2, 3, Figures S1-3) and  **insertion site analysis** (Figure 5, Figure S4). Python scripts used to reorient plasmids and parse them from genbank to csv for genomic vislisation are also included in the repository.
+The code used in the analysis is linked below for the **genomic visualisation of plasmids with circulize and gggenes** (Figures 1 and 4), **transposition frequency analysis** (Figure 2, 3, Figures S1-3) and  **insertion site analysis** (Figure 5, Figure S4). Python scripts used to reorient plasmids and parse them from genbank to csv files for genomic vislisation are also included in the repository.
 
 ## Part 1 - Genomic visualisation of replicons
 
-### Part 1.1 - [Python script - Reorientating plasmid sequences to *repE*](https://github.com/rngoodman/CRO-concentrations-Tn-frequency/blob/main/scripts/reorient_plasmid.py)
+### Part 1.1 - [Python script - Reorientating plasmid sequences to *repE*/*oriV* genes](https://github.com/rngoodman/CRO-concentrations-Tn-frequency/blob/main/scripts/reorient_plasmid.py)
 
-### Part 1.1 - [Python script - Parsing genbank file to csv file for genomic visualisation](https://github.com/rngoodman/CRO-concentrations-Tn-frequency/blob/main/scripts/parse_genbank_to_csv.py)
-
+### Part 1.2 - [Python script - Parsing genbank files to csv files for genomic visualisation](https://github.com/rngoodman/CRO-concentrations-Tn-frequency/blob/main/scripts/parse_genbank_to_csv.py)
 
 ### Part 1.3 - [R script - Genomic visualisation of RS1 and RS2 (Figure 1)](https://github.com/rngoodman/CRO-concentrations-Tn-frequency/blob/main/code/1_genomic_visualisation_RS1_RS2.R)
-
 
 ### Part 1.4 - [R script - Genomic visualisation of pBACpAK derivatives with Tn/IS inserts (Figure 4)](https://github.com/rngoodman/CRO-concentrations-Tn-frequency/blob/main/code/4_genomic_visualisation_pBACpAK_inserts.R)
 
