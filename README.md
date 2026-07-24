@@ -1,8 +1,8 @@
 # Ceftrixaxone concentration effects on transposition frequency
 
-This repository includes the code used to run the analysis in a study currently posted as a preprint on bioRxiv:
-
 ![Example Plot](imgs/Fig_3_RS1_and_RS2_transposition_frequencies_PT_T_MT.png)
+
+This repository includes the code used to run the analysis in a study currently posted as a preprint on bioRxiv:
 
 [**Effects of different concentrations and combinations of antibiotics on the dynamics of intracellular transposition in *Escherichia coli***]()
 
@@ -36,6 +36,5 @@ The code used in the analysis is linked below for the **genomic visualisation of
 
 ## Part 3 - Insertion site analysis 
 
-### Part 3.1 - [R script - Insertion site analysis (Figure 5, Figure S4)](https://github.com/rngoodman/CRO-concentrations-Tn-frequency/blob/main/code/5_S4_Insertion_site_analysis.R)
-* Circular plotting of replicons with circulize 
+### Part 3.1 - [R script - Insertion site analysis (Figure 5, Figure S4)](https://github.com/rngoodman/CRO-concentrations-Tn-frequency/blob/main/code/5_S4_Insertion_site_analysis.R) 
 
