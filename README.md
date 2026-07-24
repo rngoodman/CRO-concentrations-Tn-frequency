@@ -23,7 +23,7 @@ The code used in the analysis is linked below for the **genomic visualisation of
 ### Part 1.4 - [R script - Genomic visualisation of pBACpAK derivatives with Tn/IS inserts (Figure 4)](https://github.com/rngoodman/CRO-concentrations-Tn-frequency/blob/main/code/4_genomic_visualisation_pBACpAK_inserts.R)
 
 
-## Part 2 - Transposition Frequency analysis 
+## Part 2 - Transposition frequency analysis 
 
 ### Part 2.1 - [R script - Analysing the effect of ceftrixone concentration on CFU/ml in RS1 and RS2 (Figure 2)](https://github.com/rngoodman/CRO-concentrations-Tn-frequency/blob/main/code/2_RS1_RS2_CFU_per_ml.R)
  
