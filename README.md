@@ -31,7 +31,7 @@ The code used in the analysis is linked below for the **genomic visualisation of
 ### Part 2.3 - [R script - Transposition frequency analysis of  PT, T and MT (Figure 3, Figure S3)](https://github.com/rngoodman/CRO-concentrations-Tn-frequency/blob/main/code/3_S3_Transposition_frequency_analysis_RS1_RS2.R)
 
 
-### Part 2.4 - [R script - Variance (SEM) and difference (LFC) in PT, T and MT transpostion frequencies (Figure S2-3)](https://github.com/rngoodman/CRO-concentrations-Tn-frequency/blob/main/code/S1_S2_Tn_freq_SEM_and_LFC.R)
+### Part 2.4 - [R script - Variance (SEM) and difference (LFC) in PT, T and MT transpostion frequencies (Figure S2-3)](https://github.com/rngoodman/CRO-concentrations-Tn-frequency/blob/main/code/S1_S2_Tn_freq_SEM_and_LFC_RS1_RS2.R)
 
 
 ## Part 3 - Insertion site analysis 
