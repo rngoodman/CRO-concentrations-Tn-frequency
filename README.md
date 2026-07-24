@@ -1,4 +1,4 @@
-# Ceftrixone concentration effects on transposition frequency
+# Ceftriaxone concentration effects on transposition frequency
 
 ![Example Plot](imgs/Fig_3_RS1_and_RS2_transposition_frequencies_PT_T_MT.png)
 
