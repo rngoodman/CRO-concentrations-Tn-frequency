@@ -1,4 +1,4 @@
-# Ceftrixaxone concentration effects on transposition frequency
+# Ceftrixone concentration effects on transposition frequency
 
 ![Example Plot](imgs/Fig_3_RS1_and_RS2_transposition_frequencies_PT_T_MT.png)
 
@@ -14,7 +14,7 @@ The code used in the analysis is linked below for the **genomic visualisation of
 
 ## Part 1 - Genomic visualisation of replicons
 
-### Part 1.1 - [R script - Genomic visualisation of RS1 and RS2 (Figure 1)](https://github.com/rngoodman/CRO-concentrations-Tn-frequency/blob/main/code/1_genomic_visualisation_RS1_RS3.R)
+### Part 1.1 - [R script - Genomic visualisation of RS1 and RS2 (Figure 1)](https://github.com/rngoodman/CRO-concentrations-Tn-frequency/blob/main/code/1_genomic_visualisation_RS1_RS2.R)
 
 
 ### Part 1.2 - [R script - Genomic visualisation of pBACpAK derivatives with Tn/IS inserts (Figure 4)](https://github.com/rngoodman/CRO-concentrations-Tn-frequency/blob/main/code/4_genomic_visualisation_pBACpAK_inserts.R)
@@ -25,13 +25,13 @@ The code used in the analysis is linked below for the **genomic visualisation of
 ### Part 2.1 - [R script - Analysing the effect of ceftrixone concentration on CFU/ml in RS1 and RS2 (Figure 2)](https://github.com/rngoodman/CRO-concentrations-Tn-frequency/blob/main/code/2_RS1_RS2_CFU_per_ml.R)
  
 
-### Part 2.1 - [R script - Correcting for clonal expansion](https://github.com/rngoodman/CRO-concentrations-Tn-frequency/blob/main/code/Correcting_for_clonal_expansion.R)
+### Part 2.2 - [R script - Correcting for clonal expansion](https://github.com/rngoodman/CRO-concentrations-Tn-frequency/blob/main/code/Correcting_for_clonal_expansion.R)
 
 
-### Part 2.2 - [R script - Transposition frequency analysis of  PT, T and MT (Figure 3, Figure S3)](https://github.com/rngoodman/CRO-concentrations-Tn-frequency/blob/main/code/3_S3_Transposition_frequency_analysis.R)
+### Part 2.3 - [R script - Transposition frequency analysis of  PT, T and MT (Figure 3, Figure S3)](https://github.com/rngoodman/CRO-concentrations-Tn-frequency/blob/main/code/3_S3_Transposition_frequency_analysis_RS1_RS2.R)
 
 
-### Part 2.3 - [R script - Variance (SEM) and difference (LFC) in PT, T and MT transpostion frequencies (Figure S2-3)](https://github.com/rngoodman/CRO-concentrations-Tn-frequency/blob/main/code/S1_S2_Tn_freq_SEM_and_LFC.R)
+### Part 2.4 - [R script - Variance (SEM) and difference (LFC) in PT, T and MT transpostion frequencies (Figure S2-3)](https://github.com/rngoodman/CRO-concentrations-Tn-frequency/blob/main/code/S1_S2_Tn_freq_SEM_and_LFC.R)
 
 
 ## Part 3 - Insertion site analysis 
