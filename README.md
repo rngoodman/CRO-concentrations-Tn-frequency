@@ -4,11 +4,11 @@
 
 This repository includes the code used to run the analysis in a study currently posted as a preprint on bioRxiv:
 
-[**Effects of different concentrations and combinations of antibiotics on the dynamics of intracellular transposition in *Escherichia coli***]()
+[**Effects of different concentrations and combinations of antibiotics on the dynamics of intracellular transposition in *Escherichia coli***](https://doi.org/10.64898/2026.07.24.740473)
 
 Richard N. Goodman, Ellinor Shore, Michael S. M. Brouwer, Peter Nambala, Nicholas Feasey, Nina Langeland, Sabrina J. Moyo, Andrew Singer, Adam P. Roberts
 
-*bioRxiv* ; doi: []()
+*bioRxiv* ; doi: [https://doi.org/10.64898/2026.07.24.740473](https://doi.org/10.64898/2026.07.24.740473)
 
 The code used in the analysis is linked below for the **genomic visualisation of plasmids with circulize and gggenes** (Figures 1 and 4), **transposition frequency analysis** (Figure 2, 3, Figures S1-3) and  **insertion site analysis** (Figure 5, Figure S4). Python scripts used to reorient plasmids and parse them from genbank to csv files for genomic vislisation are also included in the repository.
 
