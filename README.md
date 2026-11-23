@@ -22,7 +22,7 @@ Open your terminal
 
 Then clone this GitHub repository 
 
-```git clone https://rngoodman.github.io/CRO-concentrations-Tn-frequency.git```
+```git clone https://github.com/rngoodman/CRO-concentrations-Tn-frequency.git```
 
 You can then run the R and python scripts from this cloned repository.
 
