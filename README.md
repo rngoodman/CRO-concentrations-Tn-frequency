@@ -14,7 +14,7 @@ Richard N. Goodman, Ellinor Shore, Michael S. M. Brouwer, Peter Nambala, Nichola
 
 The code used in the analysis is linked below for the **genomic visualisation of plasmids with circulize and gggenes** (Figures 1 and 4), **transposition frequency analysis** (Figure 2, 3, Figures S1-3) and  **insertion site analysis** (Figure 5, Figure S4). Python scripts used to reorient plasmids and parse them from genbank to csv files for genomic vislisation are also included in the repository.
 
-To rerun this analysis 
+## To rerun this analysis 
 
 Open your terminal 
 
